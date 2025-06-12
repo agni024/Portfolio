@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+  line-height: 1.6;
+}
+
+nav {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: darkblue;
+  text-decoration: none;
+  margin-right: 1rem;
+}
+
+a:hover {
+  text-decoration: underline;
+}
